@@ -9,11 +9,11 @@ redirect_from:
 
 # Hello, I'm Tomás Aguirre
 
-I'm an Economics undergraduate at the University of São Paulo (USP), where I'm ranked 1st in my cohort. My research focuses on the intersection of economics, artificial intelligence, and public policy.
+I'm an Economics undergraduate at the University of São Paulo (USP). My research interests span the intersection of economics, artificial intelligence, and public policy.
 
 ## Research Interests
 
-My work explores how AI technologies are reshaping economic systems and labor markets. I'm particularly interested in:
+In the long term, I hope to contribute to our understanding of how AI technologies are reshaping economic systems and labor markets. Currently, I'm exploring several areas that include:
 
 - **AI governance and policy**: Analyzing institutional frameworks and policy approaches for managing advanced AI systems
 - **Labor market impacts**: Studying AI-induced job displacement and developing metrics to evaluate vulnerability across occupations
@@ -24,12 +24,12 @@ My work explores how AI technologies are reshaping economic systems and labor ma
 
 I currently serve as a Research Assistant at the Centre for the Governance of AI, working with Sam Manning on analyzing AI-induced job displacement in the US. I'm also preparing to join their Summer Fellowship program in London.
 
-My recent research includes a forthcoming chapter in NBER's Economics of Transformative AI volume and a paper on research reproducibility under review at Nature. As the sole author of "On Labs and Fabs," I've also explored how alliances, acquisitions, and antitrust regulation are shaping the frontier AI industry.
+I've had the opportunity to contribute to research in various contexts, including a chapter for NBER's Economics of Transformative AI volume and collaborative work on research reproducibility currently under review at Nature. I've also been exploring how industry dynamics shape frontier AI development in my paper "On Labs and Fabs."
 
 ## Background
 
 Before focusing on AI economics, I worked on various research projects in economic history, industrial organization, and quantitative finance. I'm an alumnus of the International Economics Olympiad (silver medalist and later team leader for Brazil's world champion team) and have been selected to participate in Stanford University's upcoming Economics of Transformative AI summer course.
 
-I'm proficient in Python, R, and C/C++, with extensive experience in AI and data science tools including PyTorch, Pandas, and scikit-learn.
+I work with Python, R, and C/C++, applying these tools alongside various data science frameworks to approach research question
 
-Feel free to explore my [publications](/publications/), [CV](/cv/), or contact me directly at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com).
+I'm open to collaboration and discussion across various fields in economics and data science. Feel free to explore my [publications](/publications/), [CV](/cv/), or reach out at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com) if you'd like to connect.
