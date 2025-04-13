@@ -21,6 +21,6 @@ My contributions include a chapter for NBER's Economics of Transformative AI vol
 ## Background
 My previous research spans economic history, industrial organization, and quantitative finance. I'm an International Economics Olympiad silver medalist and former team leader for Brazil's world champion team. I've been selected for Stanford University's Economics of Transformative AI summer course.
 
-I work with Python, R, and C/C++, applying data science frameworks to economic research.
+I work with Python and R, applying data science frameworks to economic research.
 
 Feel free to explore my [publications](/publications/), [CV](/cv/), or contact me at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com).
