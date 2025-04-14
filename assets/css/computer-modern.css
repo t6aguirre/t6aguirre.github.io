@@ -1,0 +1,29 @@
+/* Computer Modern Serif */
+@font-face {
+  font-family: 'CMU Serif';
+  src: url('../fonts/computer-modern/cmunrm.woff2') format('woff2'),
+       url('../fonts/computer-modern/cmunrm.woff') format('woff'),
+       url('../fonts/computer-modern/cmunrm.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Computer Modern Sans Serif */
+@font-face {
+  font-family: 'CMU Sans Serif';
+  src: url('../fonts/computer-modern/cmunss.woff2') format('woff2'),
+       url('../fonts/computer-modern/cmunss.woff') format('woff'),
+       url('../fonts/computer-modern/cmunss.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Computer Modern Typewriter */
+@font-face {
+  font-family: 'CMU Typewriter';
+  src: url('../fonts/computer-modern/cmuntt.woff2') format('woff2'),
+       url('../fonts/computer-modern/cmuntt.woff') format('woff'),
+       url('../fonts/computer-modern/cmuntt.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
