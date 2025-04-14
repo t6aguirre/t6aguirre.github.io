@@ -29,11 +29,11 @@
 }
 
 /* Force Computer Modern on all elements */
-body * {
-  font-family: "CMU Sans Serif", "Computer Modern Sans Serif", sans-serif !important;
-}
+#body * {
+#  font-family: "CMU Sans Serif", "Computer Modern Sans Serif", sans-serif !important;
+#}
 
-/* Restore monospace for code elements */
-code, pre, kbd, samp {
-  font-family: "CMU Typewriter", "Computer Modern Typewriter", monospace !important;
-}
+#/* Restore monospace for code elements */
+#code, pre, kbd, samp {
+#  font-family: "CMU Typewriter", "Computer Modern Typewriter", monospace !important;
+#}
