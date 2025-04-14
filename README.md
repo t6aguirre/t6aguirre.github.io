@@ -4,7 +4,7 @@ This is my personal academic website where I share my work in economics, artific
 
 ## About Me
 
-I'm an Economics undergraduate at the University of São Paulo (USP) with research interests at the intersection of economics, artificial intelligence, and public policy. Currently, I serve as a Research Assistant at the Centre for the Governance of AI, working on AI-induced job displacement in the US.
+I'm an Economics undergraduate at the University of São Paulo (USP) with research interests at the intersection of economics, artificial intelligence, and public policy. Currently, I serve as a Research Assistant at the Centre for the Governance of AI, working with Sam Manning on AI-induced job displacement.
 
 My research contributions include a chapter for NBER's Economics of Transformative AI volume and work on industry dynamics in frontier AI development in my paper "On Labs and Fabs."
 
