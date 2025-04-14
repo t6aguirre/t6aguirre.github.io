@@ -1,37 +1,27 @@
 /* ==========================================================================
    SHARED THEME SETTINGS
    ========================================================================== */
-
 /* ==========================================================================
    TYPOGRAPHY
    ========================================================================== */
-
-/* Define a new font variable for Computer Modern Sans */
-$computer-modern            : "Computer Modern Sans", "CMU Sans Serif", "Latin Modern Sans", "Nimbus Sans L", Arial, sans-serif;
-
 /* Used to set the size for <em> */
 $doc-font-size              : 16;
-
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
-
 /* System typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
-
+$serif                      : "CMU Serif", "Computer Modern Serif", Georgia, Times, serif;
+$sans-serif                 : "CMU Sans Serif", "Computer Modern Sans Serif", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : "CMU Typewriter", "Computer Modern Typewriter", Monaco, Consolas, "Lucida Console", monospace;
 /* Sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
-
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
 $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
-
 /* Type scale */
 $type-size-1                : 2.441em;  // ~39.056px
 $type-size-2                : 1.953em;  // ~31.248px
@@ -41,12 +31,9 @@ $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
-
-/* Updated global font settings to use Computer Modern */
-$global-font-family         : $computer-modern;
-$header-font-family         : $computer-modern;
+$global-font-family         : $serif;
+$header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
-
 /* ==========================================================================
    Breakpoints
    ========================================================================== */
@@ -56,14 +43,12 @@ $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
-
 /* ==========================================================================
    Grid
    ========================================================================== */
 $right-sidebar-width-narrow : 20px !default;
 $right-sidebar-width        : 30px !default;
 $right-sidebar-width-wide   : 40px !default;
-
 $susy: (
     columns: 12,
     column-width: 120px,
@@ -74,7 +59,6 @@ $susy: (
     container: $large,
     global-box-sizing: border-box,
 );
-
 /* ==========================================================================
    BRAND COLORS
    ========================================================================== */
@@ -102,40 +86,3 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-
-/* Font-face declaration for Computer Modern fonts */
-@font-face {
-  font-family: "Computer Modern Sans";
-  src: url("../fonts/cmunss.woff2") format("woff2"),
-       url("../fonts/cmunss.woff") format("woff"),
-       url("../fonts/cmunss.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Computer Modern Sans";
-  src: url("../fonts/cmunsx.woff2") format("woff2"),
-       url("../fonts/cmunsx.woff") format("woff"),
-       url("../fonts/cmunsx.ttf") format("truetype");
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Computer Modern Sans";
-  src: url("../fonts/cmunsi.woff2") format("woff2"),
-       url("../fonts/cmunsi.woff") format("woff"),
-       url("../fonts/cmunsi.ttf") format("truetype");
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Computer Modern Sans";
-  src: url("../fonts/cmunso.woff2") format("woff2"),
-       url("../fonts/cmunso.woff") format("woff"),
-       url("../fonts/cmunso.ttf") format("truetype");
-  font-weight: bold;
-  font-style: italic;
-}
