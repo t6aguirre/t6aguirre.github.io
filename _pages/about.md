@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hello, I'm Tomás Aguirre
-
-I'm an Economics undergraduate at the University of São Paulo (USP) with research interests at the intersection of economics, artificial intelligence, and public policy. 
+Hi, I'm Tomás! I'm an Economics undergraduate at the University of São Paulo (USP) with research interests at the intersection of economics, artificial intelligence, and public policy. 
 
 I aim to contribute to our understanding of how AI technologies reshape economic systems and labor markets.
 
