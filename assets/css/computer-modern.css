@@ -6,6 +6,7 @@
        url('https://spratt.github.io/Computer-Modern/cmunrm.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -15,6 +16,7 @@
        url('https://spratt.github.io/Computer-Modern/cmunbx.otf') format('opentype');
   font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -24,6 +26,17 @@
        url('https://spratt.github.io/Computer-Modern/cmunsl.otf') format('opentype');
   font-weight: normal;
   font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CMU Serif';
+  src: url('https://spratt.github.io/Computer-Modern/cmunbl-webfont.woff') format('woff'),
+       url('https://spratt.github.io/Computer-Modern/cmunbl-webfont.ttf') format('truetype'),
+       url('https://spratt.github.io/Computer-Modern/cmunbl.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
 }
 
 /* Computer Modern Sans Serif */
@@ -34,6 +47,7 @@
        url('https://spratt.github.io/Computer-Modern/cmunss.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -43,4 +57,36 @@
        url('https://spratt.github.io/Computer-Modern/cmunsx.otf') format('opentype');
   font-weight: bold;
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CMU Sans Serif';
+  src: url('https://spratt.github.io/Computer-Modern/cmunsi-webfont.woff') format('woff'),
+       url('https://spratt.github.io/Computer-Modern/cmunsi-webfont.ttf') format('truetype'),
+       url('https://spratt.github.io/Computer-Modern/cmunsi.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Computer Modern Typewriter */
+@font-face {
+  font-family: 'CMU Typewriter';
+  src: url('https://spratt.github.io/Computer-Modern/cmuntt-webfont.woff') format('woff'),
+       url('https://spratt.github.io/Computer-Modern/cmuntt-webfont.ttf') format('truetype'),
+       url('https://spratt.github.io/Computer-Modern/cmuntt.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Force Computer Modern on all elements */
+body * {
+  font-family: "CMU Sans Serif", "Computer Modern Sans Serif", sans-serif !important;
+}
+
+/* Restore monospace for code elements */
+code, pre, kbd, samp {
+  font-family: "CMU Typewriter", "Computer Modern Typewriter", monospace !important;
 }
