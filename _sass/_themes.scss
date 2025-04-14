@@ -6,6 +6,9 @@
    TYPOGRAPHY
    ========================================================================== */
 
+/* Define a new font variable for Computer Modern Sans */
+$computer-modern            : "Computer Modern Sans", "CMU Sans Serif", "Latin Modern Sans", "Nimbus Sans L", Arial, sans-serif;
+
 /* Used to set the size for <em> */
 $doc-font-size              : 16;
 
@@ -39,16 +42,15 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+/* Updated global font settings to use Computer Modern */
+$global-font-family         : $computer-modern;
+$header-font-family         : $computer-modern;
 $caption-font-family        : $serif;
 
 /* ==========================================================================
    Breakpoints
    ========================================================================== */
-
 @include breakpoint-set("to ems", true);
-
 $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
@@ -58,7 +60,6 @@ $x-large                    : 1280px !default;
 /* ==========================================================================
    Grid
    ========================================================================== */
-
 $right-sidebar-width-narrow : 20px !default;
 $right-sidebar-width        : 30px !default;
 $right-sidebar-width-wide   : 40px !default;
@@ -77,7 +78,6 @@ $susy: (
 /* ==========================================================================
    BRAND COLORS
    ========================================================================== */
-
 $behance-color              : #1769FF;
 $bluesky-color              : #1184fe;
 $dribbble-color             : #ea4c89;
@@ -102,4 +102,40 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-   
+
+/* Font-face declaration for Computer Modern fonts */
+@font-face {
+  font-family: "Computer Modern Sans";
+  src: url("../fonts/cmunss.woff2") format("woff2"),
+       url("../fonts/cmunss.woff") format("woff"),
+       url("../fonts/cmunss.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Computer Modern Sans";
+  src: url("../fonts/cmunsx.woff2") format("woff2"),
+       url("../fonts/cmunsx.woff") format("woff"),
+       url("../fonts/cmunsx.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Computer Modern Sans";
+  src: url("../fonts/cmunsi.woff2") format("woff2"),
+       url("../fonts/cmunsi.woff") format("woff"),
+       url("../fonts/cmunsi.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Computer Modern Sans";
+  src: url("../fonts/cmunso.woff2") format("woff2"),
+       url("../fonts/cmunso.woff") format("woff"),
+       url("../fonts/cmunso.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
