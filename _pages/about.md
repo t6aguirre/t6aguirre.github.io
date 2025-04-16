@@ -15,7 +15,7 @@ At the Centre for the Governance of AI, I work with Sam Manning on AI-induced jo
 
 My contributions include an upcoming chapter for the NBER's Economics of Transformative AI volume and colobarating on research on AI for science reproducibility under review at Nature. 
 
-I've been also working on projects related to opinion dynamics in social networks, building on my past work as an engineer at the Brazilian startup Palver. 
+I've also been working on projects related to opinion dynamics in social networks, building on my past work at the Brazilian startup Palver.
 
 ## Background
 My previous research spans economic history, industrial organization, and quantitative finance. I'm an International Economics Olympiad medalist and former team leader for Brazil's world champion team. I've been selected for Stanford University's Economics of Transformative AI summer course.
