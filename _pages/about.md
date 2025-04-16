@@ -13,7 +13,7 @@ I aim to contribute to our understanding of how AI technologies reshape economic
 ## Current Work
 At the Centre for the Governance of AI, I work with Sam Manning on AI-induced job displacement in the US, and will join their Summer Fellowship in London.
 
-My contributions include an upcoming chapter for NBER's Economics of Transformative AI volume and collaborative research on reproducibility under review at Nature. 
+My contributions include an upcoming chapter for NBER's Economics of Transformative AI volume and colabarating on research on reproducibility under review at Nature. 
 
 I've been also working on projects related to opinion dynamics in social networks, building on my past work as an engineer at the Brazilian startup Palver. 
 
