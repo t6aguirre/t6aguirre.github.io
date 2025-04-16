@@ -18,7 +18,7 @@ My contributions include an upcoming chapter for the NBER's Economics of Transfo
 I've also been working on projects related to opinion dynamics in social networks, building on my past work at the Brazilian startup Palver.
 
 ## Background
-My previous research spans economic history, industrial organization, and quantitative finance. I'm an International Economics Olympiad medalist and former team leader for Brazil's world champion team. I've been selected for Stanford University's Economics of Transformative AI summer course.
+My previous research experience as RA/intern spans economic history, industrial organization, and quantitative finance. I'm an International Economics Olympiad medalist and former team leader for Brazil's world champion team. I've been selected for Stanford University's Economics of Transformative AI summer course.
 
 I work with Python and R, applying data science frameworks to economic research.
 
