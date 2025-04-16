@@ -8,7 +8,8 @@ redirect_from:
 ---
 Hi, I'm Tomás! I'm an Economics undergraduate at the University of São Paulo (USP) and a Research Assistant at the Centre for the Governance of AI. My research interests lie at the intersection of economics, artificial intelligence, and public policy. 
 
-I aim to contribute to our understanding of how AI technologies reshape economic systems and labor markets. Check out my [CV](https://t6aguirre.github.io/files/tomas_aguirre_cv.pdf) for more details about me.
+I aim to contribute to our understanding of how AI technologies reshape economic systems and labor markets. Check out my [CV](https://t6aguirre.github.io/files/tomas_aguirre_cv.pdf) for more details about me. 
+
 
 ## Current Work
 At the Centre for the Governance of AI, I work with Sam Manning on AI-induced job displacement in the US, and will join their Summer Fellowship in London.
