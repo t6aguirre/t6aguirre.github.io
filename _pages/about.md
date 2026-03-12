@@ -6,21 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Tomás! I'm an Economics undergraduate at the University of São Paulo (USP) and a Research Assistant at the Centre for the Governance of AI. My research interests lie at the intersection of economics, artificial intelligence, and public policy. 
+Hi! I'm Tomás.
 
-I aim to contribute to our understanding of how AI technologies reshape economic systems and labor markets. Check out my [CV](https://t6aguirre.github.io/files/tomas_aguirre_cv.pdf) for more details about me. 
+I'm a researcher on topics of economics of AI. I work as research assistant to Sam Manning at the [Centre for the Governance of AI](https://governance.ai/).
 
+I've been mostly focused on the labor impacts of AI lately. My interests also span industrial dynamics and AI for science.
 
-## Current Work
-At the Centre for the Governance of AI, I work with Sam Manning on AI-induced job displacement in the US, and will join their Summer Fellowship in London.
+My work on AI-induced job displacement with Sam is a chapter in the NBER's Economics of Transformative AI volume, with a companion piece on Brookings. I presented it twice at Stanford. I also participated in a large-scale collaboration on AI for social science reproducibility (under review at PNAS) and did a report on the frontier AI supply chain (featured in the International AI Safety Report).
 
-My contributions include a co-authored upcoming chapter for the NBER's Economics of Transformative AI volume and participating in a large-scale collaboration on AI for science reproducibility under review at Nature.
+I graduated top of my class at the University of São Paulo, and also won best senior thesis.
 
-I've also been working on projects related to opinion dynamics in social networks, building on my past work at the Brazilian startup Palver.
+In my past lives, I was an early-employee in a media tracking startup, an intern at Latin America's largest quant hedge fund, and trainer of the three-times world champion Brazil team of the International Economic Olympiad.
 
-## Background
-My previous research experience as RA/intern spans economic history, industrial organization, and quantitative finance. I'm an International Economics Olympiad medalist and former team leader for Brazil's world champion team. I've been selected for Stanford University's Economics of Transformative AI summer course.
+I work with Python and R mostly.
 
-I work with Python and R, applying data science frameworks to economic research.
+My CV is available [here](https://t6aguirre.github.io/files/tomas_aguirre_cv.pdf).
 
 Feel free to contact me at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com).
+
+*Last updated: March 11, 2026.*
