@@ -14,9 +14,9 @@ I've been mostly focused on the labor impacts of AI lately. My interests also sp
 
 My work on AI-induced job displacement with Sam is a chapter in the NBER's Economics of Transformative AI volume, with a companion piece on Brookings. I presented it twice at Stanford. I also participated in a large-scale collaboration on AI for social science reproducibility (under review at PNAS) and did a report on the frontier AI supply chain (featured in the International AI Safety Report).
 
-I graduated top of my class at the University of São Paulo, and also won best senior thesis.
+I graduated top of my class at the University of São Paulo, the best university in Latin America, and also won best senior thesis.
 
-In my past lives, I was an early-employee in a media tracking startup, an intern at Latin America's largest quant hedge fund, and trainer of the three-times world champion Brazil team of the International Economic Olympiad.
+In my past lives, I was an early-employee in a media tracking startup, an intern at Latin America's largest quant hedge fund, and trainer of the three-times world champion Brazil team of the International Economic Olympiad, where I later served on the board.
 
 I work with Python and R mostly.
 
