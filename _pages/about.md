@@ -16,7 +16,7 @@ Lately, at GovAI, I've been working with Sam on policy memos to inform policymak
 
 I graduated top of my class at the [University of São Paulo](https://www5.usp.br/english/) — frequently ranked the best university in Latin America — and also won the best senior thesis prize. Last August I attended [Stanford's ETAI summer school](https://etai.stanford.edu/).
 
-In my past lives, I was an early employee at a media tracking startup and an intern at Latin America's largest quant hedge fund — in both, I learned about building and deploying AI pipelines at scale. I was also a trainer of the three-times world champion Brazil team at the [International Economic Olympiad](https://ieo-official.org/), where I later served on the board.
+In my past lives, I was an early employee at a media tracking startup and an intern at Latin America's largest quant hedge fund — in both, I gained experience building and deploying AI pipelines at scale. I was also a trainer of the three-times world champion Brazil team at the [International Economic Olympiad](https://ieo-official.org/), where I later served on the board.
 
 I work with Python and R mostly.
 
