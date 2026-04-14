@@ -8,15 +8,15 @@ redirect_from:
 ---
 Hi! I'm Tomás.
 
-I'm a researcher on topics of economics of AI. I work as research assistant to Sam Manning at the [Centre for the Governance of AI](https://governance.ai/).
+I'm a researcher on the economics of AI. I work as a research assistant to [Sam Manning](https://www.governance.ai/team/sam-manning) at the [Centre for the Governance of AI](https://governance.ai/), with a special interest in improving our capacity to track the labor market effects of AI empirically.
 
-I've been mostly focused on the labor impacts of AI lately. My interests also span industrial dynamics and AI for science.
+My work with Sam on AI-induced job displacement is [a chapter](https://www.nber.org/papers/w34705) in the NBER's Economics of Transformative AI volume, with a companion [Brookings report](https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/) and [coverage in the Washington Post](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/). It introduces an occupation-level measure of how well workers are equipped to adapt if AI displaces them. I presented it twice at Stanford. I've also worked on the [industry dynamics of AI](https://arxiv.org/abs/2406.01722) and participated in a large-scale [RCT on AI and research reproducibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118632) (accepted at PNAS).
 
-My work on AI-induced job displacement with Sam is a chapter in the NBER's Economics of Transformative AI volume, with a companion piece on Brookings. I presented it twice at Stanford. I also participated in a large-scale collaboration on AI for social science reproducibility (under review at PNAS) and did a report on the frontier AI supply chain (featured in the International AI Safety Report).
+Lately, I've been collaborating with Rishi on open-source task-level estimates for AI exposure and time savings, and exploring new measures of the jagged frontier. I'm finishing a paper that uses Brazilian administrative data for what may be the first causal analysis of aggregate labor market impacts of AI in a developing country, inspired by the Canaries paper. I'm also building a [website cataloguing the empirical economics of AI literature](https://empirical-economics-of-ai.vercel.app/). Most recently, Sam and I co-authored a policy memo in response to the bipartisan Senate letter on BLS data collection, which Senate and White House staff were briefed on.
 
-I graduated top of my class at the University of São Paulo, the best university in Latin America, and also won best senior thesis.
+I graduated top of my class at the [University of São Paulo](https://www5.usp.br/english/) — the best university in Latin America — and also won the best senior thesis prize. Last August I attended [Phil Trammell's ETAI summer school](https://etai.stanford.edu/).
 
-In my past lives, I was an early-employee in a media tracking startup, an intern at Latin America's largest quant hedge fund, and trainer of the three-times world champion Brazil team of the International Economic Olympiad, where I later served on the board.
+In my past lives, I was an early employee at a media tracking startup, an intern at Latin America's largest quant hedge fund, and a trainer of the three-times world champion Brazil team at the [International Economic Olympiad](https://ieo-official.org/), where I later served on the board.
 
 I work with Python and R mostly.
 
@@ -24,4 +24,12 @@ My CV is available [here](https://t6aguirre.github.io/files/tomas_aguirre_cv.pdf
 
 Feel free to contact me at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com).
 
-*Last updated: March 11, 2026.*
+## News
+
+- **March 2026** — Work with Sam featured in the [Washington Post](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/) interactive on jobs most affected by AI automation.
+- **March 2026** — Coverage syndicated to [Detroit News](https://eu.detroitnews.com/story/business/2026/03/16/see-which-jobs-are-most-threatened-by-ai-and-who-may-be-able-to-adapt/89179302007/) and other outlets.
+- **March 2026** — Cited in the Brookings / Hamilton Project piece ["Research on AI and the labor market is still in the first inning"](https://www.brookings.edu/articles/research-on-ai-and-the-labor-market-is-still-in-the-first-inning/).
+- **2026** — NBER Working Paper [w34705](https://www.nber.org/papers/w34705): "How Adaptable Are American Workers to AI-Induced Job Displacement?"
+- **2026** — Companion [Brookings report](https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/) on measuring US workers' capacity to adapt to AI-driven job displacement.
+
+*Last updated: April 14, 2026.*
