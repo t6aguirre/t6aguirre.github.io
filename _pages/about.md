@@ -14,7 +14,7 @@ My work with Sam on AI-induced job displacement was published as [a chapter](htt
 
 Lately, I've been collaborating with Rishi on open-source task-level estimates for AI exposure and time savings, and exploring new measures of the jagged frontier. I'm finishing a paper that uses Brazilian administrative data for what may be the first causal analysis of aggregate labor market impacts of LLMs in a developing country. I'm also building a [website cataloguing the empirical economics of AI literature](https://empirical-economics-of-ai.vercel.app/). I also work with Sam on policy memos to inform policymakers on the Hill and in the administration.
 
-I graduated top of my class at the [University of São Paulo](https://www5.usp.br/english/) — frequently ranked the best university in Latin America — and also won the best senior thesis prize. Last August I attended [Phil Trammell's ETAI summer school](https://etai.stanford.edu/).
+I graduated top of my class at the [University of São Paulo](https://www5.usp.br/english/) — frequently ranked the best university in Latin America — and also won the best senior thesis prize. Last August I attended [Stanford's ETAI summer school](https://etai.stanford.edu/).
 
 In my past lives, I was an early employee at a media tracking startup and an intern at Latin America's largest quant hedge fund — in both, I learned about building and deploying AI pipelines at scale. I was also a trainer of the three-times world champion Brazil team at the [International Economic Olympiad](https://ieo-official.org/), where I later served on the board.
 
