@@ -26,6 +26,7 @@ Feel free to contact me at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com).
 
 ## News
 
+- **April 2026** — Cited in [Deborah Bizarria's Folha de S.Paulo column](https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/04/quem-vai-conseguir-se-adaptar-a-inteligencia-artificial.shtml) (Brazil's largest newspaper), "Quem vai conseguir se adaptar à inteligência artificial."
 - **April 2026** — Work discussed in the Financial Times newsletter [*The AI Shift*](https://www.ft.com/newsletters) by Sarah O'Connor and John Burn-Murdoch ("Will AI damage the jobs ladder for non-grads?"), alongside the follow-up Brookings piece ["How AI may reshape career pathways to better jobs"](https://www.brookings.edu/articles/how-ai-may-reshape-career-pathways-to-better-jobs/).
 - **March 2026** — Cited in the Brookings / Hamilton Project / [PIIE](https://www.piie.com/blogs/realtime-economics/2026/research-ai-and-labor-market-still-first-inning) piece ["Research on AI and the labor market is still in the first inning"](https://www.brookings.edu/articles/research-on-ai-and-the-labor-market-is-still-in-the-first-inning/).
 - **March 2026** — Coverage in [Mortgage Professional America](https://www.mpamag.com/us/specialty/technology/ai-is-coming-for-loan-officers-some-will-adapt-many-will-not/568871) on what the adaptive-capacity index implies for loan officers.
