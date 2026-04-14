@@ -34,7 +34,6 @@ Feel free to contact me at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com).
 - **January 2026** — NBER Working Paper [w34705](https://www.nber.org/papers/w34705) released: "How Adaptable Are American Workers to AI-Induced Job Displacement?" Companion [Brookings report](https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/) published the same week.
 - **September 2025** — Highlighted by Luis Garicano in his [read-through](https://x.com/lugaricano/status/1969082314966909300) of the NBER Economics of Transformative AI volume.
 - **September 2025** — Presented the adaptive-capacity work at Stanford (NBER Economics of Transformative AI conference).
-- **August 2025** — Attended [Stanford's ETAI summer school](https://etai.stanford.edu/).
-- **Spring 2025** — Presented at Stanford's Digital Economy Lab.
+- **August 2025** — Attended [Stanford's ETAI summer school](https://etai.stanford.edu/), where I presented the adaptive-capacity work in one of the classes.
 
 *Last updated: April 14, 2026.*
