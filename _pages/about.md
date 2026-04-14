@@ -28,7 +28,7 @@ Feel free to contact me at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com).
 
 - **March 2026** — Work with Sam featured in the [Washington Post](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/) interactive on jobs most affected by AI automation.
 - **March 2026** — Coverage syndicated to [Detroit News](https://eu.detroitnews.com/story/business/2026/03/16/see-which-jobs-are-most-threatened-by-ai-and-who-may-be-able-to-adapt/89179302007/) and other outlets.
-- **March 2026** — Cited in the Brookings / Hamilton Project piece ["Research on AI and the labor market is still in the first inning"](https://www.brookings.edu/articles/research-on-ai-and-the-labor-market-is-still-in-the-first-inning/).
+- **March 2026** — Cited in the Brookings / Hamilton Project / [PIIE](https://www.piie.com/blogs/realtime-economics/2026/research-ai-and-labor-market-still-first-inning) piece ["Research on AI and the labor market is still in the first inning"](https://www.brookings.edu/articles/research-on-ai-and-the-labor-market-is-still-in-the-first-inning/).
 - **2026** — NBER Working Paper [w34705](https://www.nber.org/papers/w34705): "How Adaptable Are American Workers to AI-Induced Job Displacement?"
 - **2026** — Companion [Brookings report](https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/) on measuring US workers' capacity to adapt to AI-driven job displacement.
 
