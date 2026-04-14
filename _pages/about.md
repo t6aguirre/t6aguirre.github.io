@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi! I'm Tomás.
 
-I'm a Research Assistant at the [Centre for the Governance of AI](https://governance.ai/), working with [Sam Manning](https://www.governance.ai/team/sam-manning). I'm broadly interested in the economics of AI, with a special interest in improving our capacity to track the labor market effects of AI empirically.
+I'm an economics researcher, currently a Research Assistant at the [Centre for the Governance of AI](https://governance.ai/), working with [Sam Manning](https://www.governance.ai/team/sam-manning). I'm broadly interested in the economics of AI, with a special interest in improving our capacity to track the labor market effects of AI empirically.
 
 My work with Sam on AI-induced job displacement was published as [a chapter](https://www.nber.org/papers/w34705) in the NBER's Economics of Transformative AI volume, with a companion [Brookings report](https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/) and [coverage in the Washington Post](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/). It introduces an occupation-level measure of how well workers are equipped to adapt if AI displaces them. I presented it twice at Stanford. I've also worked on the [industry dynamics of AI](https://arxiv.org/abs/2406.01722) and participated in a large-scale [RCT on AI and research reproducibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118632) (accepted at PNAS).
 
