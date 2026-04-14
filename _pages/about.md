@@ -16,7 +16,7 @@ Lately, I've been collaborating with Rishi on open-source task-level estimates f
 
 I graduated top of my class at the [University of São Paulo](https://www5.usp.br/english/) — frequently ranked the best university in Latin America — and also won the best senior thesis prize. Last August I attended [Phil Trammell's ETAI summer school](https://etai.stanford.edu/).
 
-In my past lives, I was an early employee at a media tracking startup (where I worked on building and updating AI pipelines and dealt with the challenges of scaling them), an intern at Latin America's largest quant hedge fund, and a trainer of the three-times world champion Brazil team at the [International Economic Olympiad](https://ieo-official.org/), where I later served on the board.
+In my past lives, I was an early employee at a media tracking startup and an intern at Latin America's largest quant hedge fund — in both, I learned about building and deploying AI pipelines at scale. I was also a trainer of the three-times world champion Brazil team at the [International Economic Olympiad](https://ieo-official.org/), where I later served on the board.
 
 I work with Python and R mostly.
 
