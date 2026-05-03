@@ -15,12 +15,12 @@ Ranked 1st out of 92 in cohort
 
 # Professional Experience
 
-**Summer Fellow, [Centre for the Governance of AI](https://www.governance.ai/research)** | June 2025 - August 2025 (Upcoming)  
+**Summer Fellow, [GovAI](https://www.governance.ai/research)** | June 2025 - August 2025 (Upcoming)  
 - Selected as one of approximately 15 fellows from over 1,000 applicants
 - Research focus: Societal impacts of AI
 - Based in London
 
-**Research Assistant, [Centre for the Governance of AI](https://www.governance.ai/research)** | May 2024 - Present  
+**Research Assistant, [GovAI](https://www.governance.ai/research)** | May 2024 - Present  
 - RA to [Sam Manning](https://scholar.google.com/citations?user=-gjxfJgAAAAJ&hl=en)
 - Analyzing AI-induced job displacement in the US; conducting statistical analysis for NBER volume chapter and Brookings report
 
@@ -55,7 +55,7 @@ Ranked 1st out of 92 in cohort
 
 **Vulnerability-Weighted AI Exposure: Linking AI Exposure to the Expected Welfare Costs of Job Displacement Across Occupations**  
 *NBER Volume Economics of Transformative AI, forthcoming*  
-With [S. Manning](https://scholar.google.com/citations?user=-gjxfJgAAAAJ&hl=en) (Centre for the Governance of AI)
+With [S. Manning](https://scholar.google.com/citations?user=-gjxfJgAAAAJ&hl=en) (GovAI)
 
 **[Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118632)**  
 *R&R at Nature, 2025*  
