@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi! I'm Tomás.
 
-I'm an economics researcher, currently a Research Assistant at the [Centre for the Governance of AI (GovAI)](https://governance.ai/), working with [Sam Manning](https://www.governance.ai/team/sam-manning). I'm broadly interested in the economics of AI, with a special interest in improving our capacity to track the labor market effects of AI empirically.
+I'm a Research Scholar at the [Centre for the Governance of AI (GovAI)](https://governance.ai/), where I work on the economics of frontier AI — particularly how AI's effects can be measured and what empirical infrastructure is needed to track them. I'm also a Research Affiliate at the [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu/), collaborating with Stanford researchers on the measurement and economics of AI.
 
 My work with Sam on AI-induced job displacement was published as [a chapter](https://www.nber.org/papers/w34705) in the NBER's Economics of Transformative AI volume, with a companion [Brookings report](https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/) and [coverage in the Washington Post](https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/). It introduces an occupation-level measure of how well workers are equipped to adapt if AI displaces them. I presented it twice at Stanford. I've also worked on the [industry dynamics of AI](https://arxiv.org/abs/2406.01722) and participated in a large-scale [RCT on AI and research reproducibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118632) (accepted at PNAS).
 
@@ -16,7 +16,7 @@ Lately, at GovAI, I've been working with Sam on policy memos to inform policymak
 
 I graduated top of my class at the [University of São Paulo](https://www5.usp.br/english/) — frequently ranked the best university in Latin America — and also won the best senior thesis prize. Last August I attended [Stanford's ETAI summer school](https://etai.stanford.edu/).
 
-In my past lives, I was an early employee at a media tracking startup and an intern at Latin America's largest quant hedge fund — in both, I gained experience building and deploying AI pipelines at scale. I was also a trainer of the three-times world champion Brazil team at the [International Economic Olympiad](https://ieo-official.org/), where I later served on the board.
+Before joining GovAI, I built AI pipelines at an early-stage media tracking startup and at Latin America's largest quantitative hedge fund. I was also a trainer of the three-time world champion Brazilian team at the [International Economic Olympiad](https://ieo-official.org/), where I later served on the board.
 
 I work with Python and R mostly.
 
@@ -37,4 +37,4 @@ Feel free to contact me at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com).
 - **September 2025** — Presented the adaptive-capacity work at Stanford (NBER Economics of Transformative AI conference).
 - **August 2025** — Attended [Stanford's ETAI summer school](https://etai.stanford.edu/), where I presented the adaptive-capacity work in one of the classes.
 
-*Last updated: April 14, 2026.*
+*Last updated: August 14, 2026.*
