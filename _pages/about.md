@@ -22,7 +22,7 @@ I work with Python and R mostly.
 
 My CV is available [here](https://t6aguirre.github.io/files/tomas_aguirre_cv.pdf).
 
-Feel free to contact me at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com).
+Feel free to contact me at [t6aguirre@gmail.com](mailto:t6aguirre@gmail.com). For GovAI-related matters, you can reach me at [tomas.aguirre@governance.ai](mailto:tomas.aguirre@governance.ai), and for Stanford-related matters at [taguirre@stanford.edu](mailto:taguirre@stanford.edu).
 
 ## News
 
